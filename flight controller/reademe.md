@@ -9,7 +9,7 @@ A custom 2-layer flight controller designed in **KiCad**, built around an **STM3
 | Parameter | Value |
 |---|---|
 | Board Size | 91.4 × 69.4 mm |
-| Layers | 1 (B.Cu) |
+| Layers | 2 (F.Cu,B.Cu) |
 | Substrate | FR4, 1.6 mm |
 | EDA Tool | KiCad 10.0 |
 
