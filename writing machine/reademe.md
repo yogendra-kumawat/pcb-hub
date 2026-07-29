@@ -9,7 +9,7 @@ A compact 2-layer motor driver board designed in **KiCad** for a **2-DOF polar-a
 | Parameter | Value |
 |---|---|
 | Board Size | 56.2 × 26.0 mm |
-| Layers | 1 (B.Cu) |
+| Layers | 2 (F.Cu,B.Cu) |
 | Substrate | FR4, 1.6 mm |
 | EDA Tool | KiCad 10.0 |
 
